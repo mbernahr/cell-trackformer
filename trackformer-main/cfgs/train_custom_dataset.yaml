@@ -1,0 +1,10 @@
+dataset: mot_custom_dataset
+
+train_split: train
+val_split: val
+
+mot_path_train: data/custom_dataset
+mot_path_val: data/custom_dataset
+
+epochs: 10
+lr_drop: 4
